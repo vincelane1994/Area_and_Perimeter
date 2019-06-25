@@ -22,7 +22,7 @@ public class LabTwo {
 			System.out.println("The perimeter of the room is: " + ((2 * width) + (2 * length))); /* Multiplies both
 																									sides by 2 then
 																									adds together for
-																									perimeter*/
+																									perimeter */
 			System.out.println(" ");// Space for Visual esthetics
 			System.out.println("Would you like to try another room? (Y/N)");// Option to do another room
 
